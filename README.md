@@ -1,2 +1,2 @@
 # Jogo-Balao
-Jogo web utilizando HTML e JS
+Jogo web utilizando HTML, CSS(inline) e JS
