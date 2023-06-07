@@ -1,2 +1,2 @@
-# Jogo-Bal-o
+# Jogo-Balao
 Jogo web utilizando HTML e JS
